@@ -1,6 +1,4 @@
 # git-workshop
 -----------------------
-The man entered the city.
-he was bald.
-he want to learn web development.
-but it's hard.
+The entered the city.
+The man took a break from programming for an hour and meditated.
